@@ -4,7 +4,7 @@
   "description": "A graphQl Api to handle request from carsom-client based on react",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "start": "node index"
   },
   "author": "Hassan",
   "license": "ISC",
